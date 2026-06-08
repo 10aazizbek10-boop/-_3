@@ -4,7 +4,7 @@ from math import gcd
 app = Flask(__name__)
 
 
-EMAIL_SLUG = "9aazizbek9@gmail.com"
+EMAIL_SLUG = "9aazizbek9_gmai_com"
 
 
 def lcm(a, b):
